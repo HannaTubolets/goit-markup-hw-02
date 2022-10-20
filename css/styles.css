@@ -37,6 +37,7 @@ body {
 /*Hero Section*/
 .hero-section {
     background-color: #2F303A;
+    padding-bottom: 200px;
 }
 .hero-title {
 font-weight: 900;
